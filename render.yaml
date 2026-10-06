@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: devpulse-portfolio
+    runtime: node
+    plan: free
+    buildCommand: npm ci --prefix client && npm ci --prefix server && npm run build --prefix client
+    startCommand: npm start --prefix server
+    healthCheckPath: /api/v1/healthcheck
+    envVars:
+      - key: NODE_ENV
+        value: production

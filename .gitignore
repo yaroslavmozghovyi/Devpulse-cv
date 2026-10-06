@@ -1,0 +1,8 @@
+node_modules/
+client/dist/
+.vite/
+.vscode/
+.env
+.env.*
+!.env.example
+npm-debug.log*

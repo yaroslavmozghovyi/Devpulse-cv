@@ -1,0 +1,122 @@
+{
+  "header": {
+    "navigationLabel": "Main navigation",
+    "languageLabel": "Change language",
+    "themeLabel": "Change theme",
+    "darkTheme": "Dark",
+    "lightTheme": "Light",
+    "nav": { "home": "Home", "research": "Research", "skills": "Skills", "experience": "Projects & Experience", "contact": "Contact" }
+  },
+  "hero": {
+    "name": "Yaroslav Mozghovyi",
+    "role": "Computer Science Student · Full-Stack Developer",
+    "status": "Open to professional opportunities",
+    "degree": "Computer Science · Sumy State University, 2023–2027",
+    "location": "Sumy / Kyiv, Ukraine",
+    "bio": "I build web applications and am interested in database performance, procedural generation, and practical solutions for the modern web.",
+    "contactCta": "Get in touch",
+    "experienceCta": "Projects & Experience",
+    "portraitAlt": "Portrait of Yaroslav Mozghovyi",
+    "portraitCaption": "Computer Science Student · Sumy State University"
+  },
+  "home": {
+    "focusEyebrow": "Professional focus",
+    "focusTitle": "Areas of interest",
+    "skillsLink": "View skills",
+    "focusItems": [
+      { "title": "Full-Stack Development", "description": "Building modern interfaces and server-side applications with React, Node.js, and REST APIs." },
+      { "title": "Software engineering", "description": "Object-oriented design, algorithms, design patterns, and the software development lifecycle." },
+      { "title": "Research", "description": "Procedural generation, cybersecurity, and applied computer science topics." }
+    ],
+    "researchEyebrow": "Academic work",
+    "researchTitle": "Research and publications",
+    "researchDescription": "Explore my academic papers and the topics I have worked on.",
+    "researchLink": "View publications"
+  },
+  "publications": {
+    "title": "Research and publications",
+    "subtitle": "Academic work and research topics from my studies at Sumy State University.",
+    "authors": "Authors",
+    "venue": "Conference",
+    "referencesTitle": "Academic references",
+    "referencesNote": "Sumy State University",
+    "items": [
+      { "year": "2026", "title": "Analysis of DBMS efficiency for storing reinforcement learning telemetry under limited computational resources", "authors": "Mozghovyi, Y. V., & Sukov, M. V.", "conference": "International Conference “Information Technologies. Management. Automation” (IMA-2026), Sumy State University", "description": "An evaluation of database performance for collecting reinforcement-learning telemetry on resource-constrained systems." },
+      { "year": "2024", "title": "Procedural generation in games: Opportunities for creating infinite worlds", "authors": "Mozghovyi, Y. V., & Bazyl, O. O.", "conference": "13th International Scientific Conference of Young Scientists “Current Problems of Modern Technologies”", "description": "An analysis of procedural-generation algorithms and mathematical models for game worlds." },
+      { "year": "2024", "title": "Strategies and practices for countering the growing number of cyberattacks", "authors": "Mozghovyi, Y. V.", "conference": "15th Student Conference “First Step into Science”, Sumy, Ukraine", "description": "An overview of digital-security practices and approaches to protecting information networks." }
+    ],
+    "references": [
+      { "name": "Taras Lyutyy", "role": "Associate Professor, Vice Dean of ELIT Faculty, Sumy State University" },
+      { "name": "Oksana Shovkoplyas", "role": "Head of Informatics Department, Associate Professor, SSU" },
+      { "name": "Vlad Pyatachenko", "role": "Senior Lecturer; Deputy Head of the Computer Science Department for International & Innovative Activities, SSU" },
+      { "name": "Aliona Moskalenko", "role": "Associate Professor, PhD in Technical Sciences, SSU" },
+      { "name": "Larysa Otroshchenko", "role": "Associate Professor, Dept. of Foreign Languages & Linguodidactics, SSU" }
+    ]
+  },
+  "skills": {
+    "title": "Skills and qualifications",
+    "subtitle": "Technologies, tools, and knowledge I apply in my studies and development work.",
+    "leadershipTitle": "Leadership and collaboration",
+    "leadershipRole": "Class representative · Sumy State University · 2023–2026",
+    "leadershipDescription": "Coordinate communication between students and the university, supporting teamwork and the academic process.",
+    "categories": [
+      { "name": "Languages and platforms", "skills": ["JavaScript", "TypeScript", "Python", "C++", "C#", "Java", "ASP.NET"] },
+      { "name": "Web and databases", "skills": ["HTML5 / CSS3", "React", "REST APIs", "SQL", "PostgreSQL", "MySQL", "MongoDB", "Query optimization"] },
+      { "name": "Tools and infrastructure", "skills": ["Git / GitHub", "GitLab", "Docker", "Visual Studio", "VS Code", "JetBrains IDEs", "Linux / Bash", "Windows"] },
+      { "name": "Computer science foundations", "skills": ["OOP", "Design patterns", "Data structures and algorithms", "Software development principles", "SDLC", "Computer networks", "Operating systems"] }
+    ],
+    "certificatesTitle": "Certificates",
+    "certificates": ["English for STEM — specialized language training for technical environments", "Digital Security at the Personal Level — threat assessment and encryption", "Word & Excel: Tools and Lifehacks — 36-hour intensive"],
+    "certificatesLink": "View certificates",
+    "readingTitle": "Professional reading",
+    "reading": ["97 Things Every Software Architect Should Know — Richard Monson-Haefel", "Head First Design Patterns — Eric Freeman & Elisabeth Robson", "Beautiful Code — Greg Wilson & Andy Oram", "The Art of Concurrency — Clay Breshears", "The Art of Application Performance Testing — Ian Molyneaux", "Core Python Programming — Wesley Chun", "Grid Computing in a SaaS Environment — Revionics"],
+    "qualitiesTitle": "Personal strengths",
+    "qualities": ["Reliability", "Responsibility", "Critical thinking", "Creativity", "Time management", "Analytical thinking", "Adaptability and fast learning", "Teamwork and collaboration"]
+  },
+  "experience": {
+    "title": "Projects and experience",
+    "subtitle": "Professional experience, education, and activities beyond coursework.",
+    "workTitle": "Work experience",
+    "jobTitle": "Credit Manager",
+    "company": "Elite Finance",
+    "jobDates": "February–April 2026 · Kyiv, Ukraine",
+    "jobDescription": "Notified customers about overdue balances and helped them find ways to resolve their debts. Part-time, 32.5 hours per week.",
+    "educationTitle": "Education",
+    "degreeTitle": "Bachelor's Degree in Computer Science · Informatics specialization",
+    "educationDates": "September 2023–Present",
+    "university": "Sumy State University · Sumy, Ukraine",
+    "courseworkLabel": "Relevant coursework",
+    "coursework": ["C++, Python, and Java", "Data structures and algorithms", "Database systems and SQL", "OOP and software development principles", "Web development: HTML, CSS, JavaScript", "Computer networks and operating systems", "Discrete mathematics"],
+    "projectTitle": "DevPulse · Personal portfolio and REST API",
+    "projectDescription": "A personal multi-page portfolio with a responsive interface, Ukrainian and English localization, and a dedicated Express API for profile, skills, and publication data.",
+    "projectStackLabel": "Technologies",
+    "projectStack": ["React", "Vite", "Node.js", "Express", "REST API"],
+    "apiStatusTitle": "Server status",
+    "apiStatusChecking": "Checking connection…",
+    "apiStatusOnline": "Connected",
+    "apiStatusOffline": "Connection unavailable",
+    "apiUptime": "Uptime",
+    "projectFeaturesLabel": "API features",
+    "projectFeatures": ["Public profile", "Publication list", "Skill categories", "Server health check"],
+    "achievementsTitle": "Achievements",
+    "achievements": ["Second-degree diploma, regional round of the All-Ukrainian English Language Olympiad — 2017", "Third-degree diploma, regional round of the All-Ukrainian English Language Olympiad — 2019"],
+    "languagesTitle": "Languages",
+    "languages": [{"name":"Ukrainian","level":"Native"},{"name":"English","level":"B1"},{"name":"French","level":"A1"}],
+    "activitiesTitle": "Community involvement",
+    "activities": ["Elected class representative at Sumy State University from 2023 to 2026.", "Active member of the school forestry unit.", "Frequent speaker and performer at school-wide events and public ceremonies."]
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Get in touch about internships, collaboration, or professional opportunities.",
+    "email": "Email",
+    "telegram": "Telegram",
+    "linkedin": "LinkedIn",
+    "github": "GitHub",
+    "tiktok": "TikTok",
+    "location": "Location",
+    "locationValue": "Sumy / Kyiv, Ukraine",
+    "availabilityTitle": "Professional opportunities",
+    "availabilityText": "Open to Junior and internship roles in Full-Stack and Backend development."
+  },
+  "footer": { "note": "Personal portfolio and academic work" }
+}

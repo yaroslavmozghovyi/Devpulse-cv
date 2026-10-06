@@ -1,0 +1,122 @@
+{
+  "header": {
+    "navigationLabel": "Головна навігація",
+    "languageLabel": "Змінити мову",
+    "themeLabel": "Змінити тему",
+    "darkTheme": "Темна",
+    "lightTheme": "Світла",
+    "nav": { "home": "Головна", "research": "Дослідження", "skills": "Навички", "experience": "Проєкти й досвід", "contact": "Контакти" }
+  },
+  "hero": {
+    "name": "Ярослав Мозговий",
+    "role": "Студент комп'ютерних наук · Full-Stack розробник",
+    "status": "Відкритий до професійних можливостей",
+    "degree": "Комп'ютерні науки · СумДУ, 2023–2027",
+    "location": "Суми / Київ, Україна",
+    "bio": "Розробляю вебзастосунки та цікавлюся ефективністю баз даних, процедурною генерацією і практичними рішеннями для сучасного вебу.",
+    "contactCta": "Зв'язатися зі мною",
+    "experienceCta": "Проєкти й досвід",
+    "portraitAlt": "Портрет Ярослава Мозгового",
+    "portraitCaption": "Студент комп'ютерних наук · СумДУ"
+  },
+  "home": {
+    "focusEyebrow": "Професійний напрям",
+    "focusTitle": "Що мене цікавить",
+    "skillsLink": "Переглянути навички",
+    "focusItems": [
+      { "title": "Full-Stack розробка", "description": "Створення сучасних інтерфейсів і серверної логіки з React, Node.js та REST API." },
+      { "title": "Інженерія програмного забезпечення", "description": "Об'єктноорієнтоване проєктування, алгоритми, шаблони та життєвий цикл розробки ПЗ." },
+      { "title": "Дослідження", "description": "Процедурна генерація, кібербезпека та прикладні теми комп'ютерних наук." }
+    ],
+    "researchEyebrow": "Наукова діяльність",
+    "researchTitle": "Дослідження та публікації",
+    "researchDescription": "Ознайомтеся з моїми науковими роботами та темами, над якими я працював.",
+    "researchLink": "Переглянути публікації"
+  },
+  "publications": {
+    "title": "Дослідження та публікації",
+    "subtitle": "Наукові роботи й дослідницькі теми під час навчання в Сумському державному університеті.",
+    "authors": "Автори",
+    "venue": "Конференція",
+    "referencesTitle": "Академічні рекомендації",
+    "referencesNote": "Сумський державний університет",
+    "items": [
+      { "year": "2026", "title": "Analysis of DBMS efficiency for storing reinforcement learning telemetry under limited computational resources", "authors": "Mozghovyi, Y. V., & Sukov, M. V.", "conference": "International Conference “Information Technologies. Management. Automation” (IMA-2026), Sumy State University", "description": "Дослідження продуктивності баз даних для збирання телеметрії навчання з підкріпленням на обмежених обчислювальних ресурсах." },
+      { "year": "2024", "title": "Procedural generation in games: Opportunities for creating infinite worlds", "authors": "Mozghovyi, Y. V., & Bazyl, O. O.", "conference": "13th International Scientific Conference of Young Scientists “Current Problems of Modern Technologies”", "description": "Аналіз алгоритмів процедурної генерації та математичних моделей ігрових світів." },
+      { "year": "2024", "title": "Strategies and practices for countering the growing number of cyberattacks", "authors": "Mozghovyi, Y. V.", "conference": "15th Student Conference “First Step into Science”, Sumy, Ukraine", "description": "Огляд практик цифрової безпеки та підходів до захисту інформаційних мереж." }
+    ],
+    "references": [
+      { "name": "Тарас Лютий", "role": "Доцент, заступник декана факультету ЕЛІТ, Сумський державний університет" },
+      { "name": "Оксана Шовкопляс", "role": "Завідувачка кафедри інформатики, доцентка, СумДУ" },
+      { "name": "Влад П'ятаченко", "role": "Старший викладач, заступник завідувача кафедри комп'ютерних наук з міжнародної та інноваційної діяльності, СумДУ" },
+      { "name": "Альона Москаленко", "role": "Доцентка, кандидатка технічних наук, СумДУ" },
+      { "name": "Лариса Отрощенко", "role": "Доцентка кафедри іноземних мов та лінгводидактики, СумДУ" }
+    ]
+  },
+  "skills": {
+    "title": "Навички та кваліфікація",
+    "subtitle": "Технології, інструменти та знання, які застосовую в навчанні й розробці.",
+    "leadershipTitle": "Лідерство та співпраця",
+    "leadershipRole": "Староста академічної групи · СумДУ · 2023–2026",
+    "leadershipDescription": "Координую комунікацію між студентами та університетом, допомагаю організовувати командну роботу й навчальний процес.",
+    "categories": [
+      { "name": "Мови та платформи", "skills": ["JavaScript", "TypeScript", "Python", "C++", "C#", "Java", "ASP.NET"] },
+      { "name": "Веб і бази даних", "skills": ["HTML5 / CSS3", "React", "REST API", "SQL", "PostgreSQL", "MySQL", "MongoDB", "Оптимізація запитів"] },
+      { "name": "Інструменти та інфраструктура", "skills": ["Git / GitHub", "GitLab", "Docker", "Visual Studio", "VS Code", "JetBrains IDEs", "Linux / Bash", "Windows"] },
+      { "name": "Основи комп'ютерних наук", "skills": ["ООП", "Шаблони проєктування", "Структури даних та алгоритми", "Принципи розробки ПЗ", "SDLC", "Комп'ютерні мережі", "Операційні системи"] }
+    ],
+    "certificatesTitle": "Сертифікати",
+    "certificates": ["English for STEM — спеціалізована англійська для технічного середовища", "Digital Security at the Personal Level — оцінювання загроз і шифрування", "Word & Excel: Tools and Lifehacks — інтенсивний курс, 36 годин"],
+    "certificatesLink": "Переглянути сертифікати",
+    "readingTitle": "Професійна література",
+    "reading": ["97 Things Every Software Architect Should Know — Richard Monson-Haefel", "Head First Design Patterns — Eric Freeman & Elisabeth Robson", "Beautiful Code — Greg Wilson & Andy Oram", "The Art of Concurrency — Clay Breshears", "The Art of Application Performance Testing — Ian Molyneaux", "Core Python Programming — Wesley Chun", "Grid Computing in a SaaS Environment — Revionics"],
+    "qualitiesTitle": "Особисті якості",
+    "qualities": ["Відповідальність", "Надійність", "Критичне мислення", "Креативність", "Тайм-менеджмент", "Аналітичне мислення", "Адаптивність і швидке навчання", "Командна робота"]
+  },
+  "experience": {
+    "title": "Проєкти та досвід",
+    "subtitle": "Практичний досвід, освіта та діяльність поза навчанням.",
+    "workTitle": "Досвід роботи",
+    "jobTitle": "Кредитний менеджер",
+    "company": "Elite Finance",
+    "jobDates": "Лютий — квітень 2026 · Київ, Україна",
+    "jobDescription": "Інформував клієнтів про прострочену заборгованість і допомагав знаходити шляхи її погашення. Часткова зайнятість — 32,5 години на тиждень.",
+    "educationTitle": "Освіта",
+    "degreeTitle": "Бакалавр комп'ютерних наук · спеціалізація «Інформатика»",
+    "educationDates": "Вересень 2023 — дотепер",
+    "university": "Сумський державний університет · Суми, Україна",
+    "courseworkLabel": "Основні дисципліни",
+    "coursework": ["C++, Python і Java", "Структури даних та алгоритми", "Системи баз даних і SQL", "ООП та принципи розробки програмного забезпечення", "Веброзробка: HTML, CSS, JavaScript", "Комп'ютерні мережі та операційні системи", "Дискретна математика"],
+    "projectTitle": "DevPulse · Персональне портфоліо та REST API",
+    "projectDescription": "Власний багатосторінковий сайт-портфоліо з адаптивним інтерфейсом, українською й англійською локалізацією та окремим Express API для профілю, навичок і публікацій.",
+    "projectStackLabel": "Технології",
+    "projectStack": ["React", "Vite", "Node.js", "Express", "REST API"],
+    "apiStatusTitle": "Стан сервера",
+    "apiStatusChecking": "Перевіряємо з'єднання…",
+    "apiStatusOnline": "Підключено",
+    "apiStatusOffline": "Немає з'єднання",
+    "apiUptime": "Працює",
+    "projectFeaturesLabel": "Можливості API",
+    "projectFeatures": ["Публічний профіль", "Список публікацій", "Категорії навичок", "Перевірка стану сервера"],
+    "achievementsTitle": "Досягнення",
+    "achievements": ["Диплом II ступеня, обласний етап Всеукраїнської олімпіади з англійської мови — 2017", "Диплом III ступеня, обласний етап Всеукраїнської олімпіади з англійської мови — 2019"],
+    "languagesTitle": "Мови",
+    "languages": [{"name":"Українська","level":"Рідна"},{"name":"Англійська","level":"B1"},{"name":"Французька","level":"A1"}],
+    "activitiesTitle": "Громадська діяльність",
+    "activities": ["Обраний староста академічної групи СумДУ протягом 2023–2026 років.", "Активний учасник шкільного лісництва.", "Виступав на загальношкільних заходах і публічних подіях."]
+  },
+  "contact": {
+    "title": "Контакти",
+    "subtitle": "Відкритий до спілкування щодо стажувань, співпраці та професійних можливостей.",
+    "email": "Електронна пошта",
+    "telegram": "Telegram",
+    "linkedin": "LinkedIn",
+    "github": "GitHub",
+    "tiktok": "TikTok",
+    "location": "Місто",
+    "locationValue": "Суми / Київ, Україна",
+    "availabilityTitle": "Професійні можливості",
+    "availabilityText": "Розглядаю пропозиції для позицій Junior та стажувань у напрямках Full-Stack і Backend розробки."
+  },
+  "footer": { "note": "Особисте портфоліо та академічні роботи" }
+}
